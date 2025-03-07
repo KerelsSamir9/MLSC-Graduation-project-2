@@ -60,9 +60,9 @@ The dataset consists of multiple tables containing information about:
  └──  visuals                        # Saved plots and figures
 ```
 
-## 🏆 Conclusion
+## Conclusion
 This segmentation helps businesses optimize coupon distribution, improve customer loyalty, and increase sales through data-driven marketing strategies.
 
 ---
-📧 **For any inquiries, feel free to reach out!**
+
 
