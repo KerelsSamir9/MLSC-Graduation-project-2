@@ -44,21 +44,6 @@ The dataset consists of multiple tables containing information about:
 - **Cluster 2**: Reactivate inactive users with special offers.
 - **Cluster 3**: Reward top customers with exclusive deals.
 
-##  How to Run
-1. Install required libraries:  
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-2. Run the Jupyter Notebook to execute the analysis.
-
-##  Repository Structure
-```
- Customer-Segmentation-Project
- ├──  customer_segmentation.ipynb  # Jupyter Notebook with full implementation
- ├──  README.md                     # Project documentation
- ├──  data                           # Dataset files
- └──  visuals                        # Saved plots and figures
-```
 
 ## Conclusion
 This segmentation helps businesses optimize coupon distribution, improve customer loyalty, and increase sales through data-driven marketing strategies.
